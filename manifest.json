@@ -1,6 +1,6 @@
 {
   "name": "Tab URL Exporter",
-  "author": "yukuduri",
+  "author": "tomokazutateishi",
   "version": "1.0.0",
   "description": "開いているウインドウ内のすべてのタブのタイトルとURLを取得します。",
   "icons": {
