@@ -54,4 +54,10 @@
 - アイコンファイル（icon16.png, icon19.png, icon48.png, icon128.png）が必要です
 - アイコンファイルがない場合は、manifest.jsonからアイコンの設定を削除するか、適切なアイコンファイルを用意してください
 
+## 参考資料
+
+本拡張機能は、[@yukuduri](https://qiita.com/yukuduri)さんの以下の記事を参考にして作成しました：
+
+- [開いているウインドウの全タブのページタイトルとURLを取得するChrome拡張作った](https://qiita.com/yukuduri/items/3f2159ab3cec95a1ba28)
+
 
