@@ -1,0 +1,30 @@
+{
+  "name": "Tab URL Exporter",
+  "author": "yukuduri",
+  "version": "1.0.0",
+  "description": "開いているウインドウ内のすべてのタブのタイトルとURLを取得します。",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_title": "Tab URL Exporter",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "19": "icon19.png",
+      "38": "icon38.png"
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "clipboardWrite"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;"
+  },
+  "manifest_version": 3
+}
+
