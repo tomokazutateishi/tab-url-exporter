@@ -65,3 +65,6 @@ https://gist.github.com/username/abc123def456/raw/privacy-policy.html
 
 どの方法でも、生成されたURLをChromeウェブストア登録フォームの「プライバシーポリシーのURL」欄に入力してください。
 
+
+
+
